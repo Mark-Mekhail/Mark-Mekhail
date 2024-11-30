@@ -1,4 +1,4 @@
-# Hey, I'm Mark Mekhail 👋
+## Hey, I'm Mark Mekhail 👋
 
 ## About Me
 I'm a computer engineering student at the University of British Columbia.
