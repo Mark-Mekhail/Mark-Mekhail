@@ -38,7 +38,7 @@
 ## Some GitHub Stats
 Although I like to think I'm a 🌟 star developer 🌟 it seems like I haven't earned very many yet. If you like any of my work, do show some love with a star ⭐!
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Mekhail&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Mekhail&hide=contribs&show_icons=true&hide_rank=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me online 🌐
 - Check out my [website](https://mark-mekhail.github.io/About-Mark/) 🔗
