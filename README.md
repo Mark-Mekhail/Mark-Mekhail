@@ -8,7 +8,7 @@
     def __new__(cls):
       if cls._mark is None:
         cls._mark = super().__new__(cls)
-        print("Mark is born! It doesn't look like 2001, though 🤔")
+        print("Mark is born! It doesn't look like we're in the 2000's, though 🤔")
       return cls._mark
 
     def __init__(mark):
