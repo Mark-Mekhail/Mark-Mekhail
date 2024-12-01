@@ -17,36 +17,18 @@
         'major' : 'Computer Engineering',
         'GPA'   : '91.6%'
       }
-
       mark.experience = [
-        {
-          'company' : 'Intel Corporation',
-          'position': 'Simulation Software Engineer Co-op'
-        },
-        {
-          'company' : 'Schweitzer Engineering Laboratories',
-          'position': 'Software Engineer Intern'
-        },
-        {
-          'company' : 'University of British Columbia',
-          'position': 'Undergraduate Research Assistant'
-        },
-        {
-          'company' : 'Safe Software',
-          'position': 'Backend Software Developer Co-op'
-        },
-        {
-          'company' : 'Government of Canada',
-          'position': 'Full-Stack Software Developer Co-op'
-        }
+        'Simulation SWE Co-op @ Intel Corporation',
+        'SWE Intern           @ Schweitzer Engineering Laboratories',
+        'Teaching Assistant   @ University of British Columbia',
+        'Backend SWE Co-op    @ Safe Software',
+        'Full-Stack SWE Co-op @ Government of Canada'
       ]
-
       mark.skills = {
         'languages' : ['Java', 'Python', 'C/C++', 'JavaScript', 'HTML/CSS', 'SQL', 'SystemVerilog'],
         'frameworks': ['React', 'Express', 'Spring Boot']
         'tools'     : ['Git', 'Jenkins', 'Linux', 'Jira', 'Docker', 'AWS']
       }
-
       mark.interests = {
         'software'     : ['Machine Learning', 'Cybersecurity', 'Application Development', 'Automation'],
         'non-technical': ['Snowboarding', 'Skiing', 'Hiking', 'Standup Comedy', 'Skin Care', 'Arabic']
