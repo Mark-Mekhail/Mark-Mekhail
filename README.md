@@ -43,4 +43,4 @@ Although I like to think I'm a 🌟 star developer 🌟 it seems like I haven't 
 ## Find me online 🌐
 - Check out my [website](https://mark-mekhail.github.io/About-Mark/) 🔗
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/markmekhail/) 🤝
-- I would usually also list my GitHub page, but you're already here! 🤷‍♂️
+- I would usually direct you to my GitHub page, but you're already here! 🤷‍♂️
