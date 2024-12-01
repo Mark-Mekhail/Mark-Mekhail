@@ -4,7 +4,7 @@
   class Mark:
     _mark = None
 
-    # Until cloning is possible, there can only be one Mark 😉
+    # Until cloning is possible, there can only be a single Mark 😉
     def __new__(cls):
       if cls._mark is None:
         cls._mark = super().__new__(cls)
@@ -18,11 +18,11 @@
         'GPA'   : '91.6%'
       }
       mark.experience = [
-        'Simulation SWE Co-op @ Intel Corporation',
-        'SWE Intern           @ Schweitzer Engineering Laboratories',
-        'Teaching Assistant   @ University of British Columbia',
-        'Backend SWE Co-op    @ Safe Software',
-        'Full-Stack SWE Co-op @ Government of Canada'
+        'Simulation Softwar Engineer Co-op  @ Intel Corporation',
+        'Software Engineer Intern           @ Schweitzer Engineering Laboratories (SEL)',
+        'Teaching Assistant                 @ University of British Columbia',
+        'Backend Software Develoepr Co-op   @ Safe Software',
+        'Full-Stack Sotware Developer Co-op @ Government of Canada'
       ]
       mark.skills = {
         'languages' : ['Java', 'Python', 'C/C++', 'JavaScript', 'HTML/CSS', 'SQL', 'SystemVerilog'],
