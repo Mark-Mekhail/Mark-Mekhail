@@ -36,7 +36,7 @@
 ```
 
 ## GitHub Stats
-Being a good software engineer isn't easy. To succeed, you need to commit! Apparently I've done that hundreds of times 😉🤓
+Being a good software engineer isn't easy. To succeed, you need to commit! Apparently I've done that hundreds of times 🤓.
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Mekhail&hide=contribs,stars&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
