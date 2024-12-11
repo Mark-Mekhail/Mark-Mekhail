@@ -18,16 +18,16 @@
         'GPA'   : '91.6%'
       }
       mark.experience = [
-        'Simulation Softwar Engineer Co-op  @ Intel Corporation',
+        'Simulation Software Engineer Co-op  @ Intel Corporation',
         'Software Engineer Intern           @ Schweitzer Engineering Laboratories (SEL)',
         'Teaching Assistant                 @ University of British Columbia',
-        'Backend Software Develoepr Co-op   @ Safe Software',
+        'Backend Software Developer Co-op   @ Safe Software',
         'Full-Stack Sotware Developer Co-op @ Government of Canada'
       ]
       mark.skills = {
-        'languages' : ['Java', 'Python', 'C/C++', 'JavaScript', 'HTML/CSS', 'SQL', 'SystemVerilog'],
-        'frameworks': ['React', 'Express', 'Spring Boot']
-        'tools'     : ['Git', 'Jenkins', 'Linux', 'Jira', 'Docker', 'AWS']
+        'programming languages' : ['Java', 'Python', 'C/C++', 'JavaScript', 'HTML', 'CSS', 'SQL', 'SystemVerilog'],
+        'frameworks/technologies': ['Node.js', 'React', 'Express', 'Jest', 'Spring Boot']
+        'tools'     : ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Cypress', 'Linux', 'Jira']
       }
       mark.interests = {
         'software'     : ['Machine Learning', 'Cybersecurity', 'Application Development', 'Automation'],
