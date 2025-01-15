@@ -15,17 +15,18 @@
       mark.education = {
         'school': 'University of British Columbia',
         'major' : 'Computer Engineering',
-        'GPA'   : '91.6%'
+        'GPA'   : '91.6% (3.9/4.0)'
       }
       mark.experience = [
-        'Simulation Software Engineer Co-op  @ Intel Corporation',
+        'Software Engineer Intern           @ Remitly',
+        'Simulation Software Engineer Co-op @ Intel Corporation',
         'Software Engineer Intern           @ Schweitzer Engineering Laboratories (SEL)',
         'Teaching Assistant                 @ University of British Columbia',
         'Backend Software Developer Co-op   @ Safe Software',
         'Full-Stack Sotware Developer Co-op @ Government of Canada'
       ]
       mark.skills = {
-        'programming languages' : ['Java', 'Python', 'C/C++', 'JavaScript', 'HTML', 'CSS', 'SQL', 'SystemVerilog'],
+        'programming languages' : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript', 'TypeScript', 'HTML', 'CSS', 'SQL', 'SystemVerilog'],
         'frameworks/technologies': ['Node.js', 'React', 'Express', 'Jest', 'Spring Boot']
         'tools'     : ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Cypress', 'Linux', 'Jira']
       }
