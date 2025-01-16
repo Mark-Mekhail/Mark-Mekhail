@@ -26,9 +26,8 @@
         'Full-Stack Sotware Developer Co-op @ Government of Canada'
       ]
       mark.skills = {
-        'programming languages' : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript', 'TypeScript', 'HTML', 'CSS', 'SQL', 'SystemVerilog'],
-        'frameworks/technologies': ['Node.js', 'React', 'Express', 'Jest', 'Spring Boot']
-        'tools'     : ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Cypress', 'Linux', 'Jira']
+        'languages'   : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript/TypeScript', 'HTML', 'CSS', 'SQL'],
+        'technologies': ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Linux', 'React/ReactNative']
       }
       mark.interests = {
         'software'     : ['Machine Learning', 'Cybersecurity', 'Application Development', 'Automation'],
