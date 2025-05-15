@@ -18,6 +18,7 @@
         'GPA'   : '91.6% (3.9/4.0)'
       }
       mark.experience = [
+        'Software Engineer Intern           @ Amazon',
         'Software Engineer Intern           @ Remitly',
         'Simulation Software Engineer Co-op @ Intel Corporation',
         'Software Engineer Intern           @ Schweitzer Engineering Laboratories (SEL)',
@@ -27,7 +28,7 @@
       ]
       mark.skills = {
         'languages'   : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript/TypeScript', 'HTML', 'CSS', 'SQL'],
-        'technologies': ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Linux', 'React/ReactNative']
+        'technologies': ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Linux', 'React Native']
       }
       mark.interests = {
         'software'     : ['Machine Learning', 'Cybersecurity', 'Application Development', 'Automation'],
