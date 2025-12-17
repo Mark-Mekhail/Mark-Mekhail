@@ -18,6 +18,7 @@
         'GPA'   : '91.6% (3.9/4.0)'
       }
       mark.experience = [
+        'Software Engineer Intern           @ Shopify',
         'Software Engineer Intern           @ Amazon',
         'Software Engineer Intern           @ Remitly',
         'Simulation Software Engineer Co-op @ Intel Corporation',
@@ -27,12 +28,12 @@
         'Full-Stack Sotware Developer Co-op @ Government of Canada'
       ]
       mark.skills = {
-        'languages'   : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript/TypeScript', 'HTML', 'CSS', 'SQL'],
+        'languages'   : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript/TypeScript', 'Ruby', 'HTML', 'CSS', 'SQL'],
         'technologies': ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Linux', 'React Native']
       }
       mark.interests = {
-        'software'     : ['Machine Learning', 'Cybersecurity', 'Application Development', 'Automation'],
-        'non-technical': ['Snowboarding', 'Skiing', 'Hiking', 'Standup Comedy', 'Skin Care', 'Arabic']
+        'software'     : ['Machine Learning', 'Application Development', 'Automation'],
+        'non-technical': ['Snowboarding', 'Skiing', 'Hiking', 'Standup Comedy', 'Arabic']
       }
 ```
 
