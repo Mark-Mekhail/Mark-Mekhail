@@ -12,12 +12,8 @@
       return cls._mark
 
     def __init__(mark):
-      mark.education = {
-        'school': 'University of British Columbia',
-        'major' : 'Computer Engineering',
-        'GPA'   : '91.6% (3.9/4.0)'
-      }
       mark.experience = [
+        'Software Engineer                  @ Databricks',
         'Software Engineer Intern           @ Shopify',
         'Software Engineer Intern           @ Amazon',
         'Software Engineer Intern           @ Remitly',
@@ -27,6 +23,12 @@
         'Backend Software Developer Co-op   @ Safe Software',
         'Full-Stack Sotware Developer Co-op @ Government of Canada'
       ]
+      mark.education = {
+        'school': 'University of British Columbia',
+        'major' : 'Computer Engineering',
+        'GPA'   : '91.6% (3.9/4.0)',
+        'awards': 'EGBC Achievement Award (top student in graduating class)'
+      }
       mark.skills = {
         'languages'   : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript/TypeScript', 'Ruby', 'HTML', 'CSS', 'SQL'],
         'technologies': ['Git', 'Docker', 'AWS', 'Jenkins', 'GitHub Actions', 'Linux', 'React Native']
