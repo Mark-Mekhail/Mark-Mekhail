@@ -31,7 +31,7 @@
       }
       mark.skills = {
         'languages'   : ['Java', 'Python', 'C/C++', 'Go', 'JavaScript/TypeScript', 'Ruby', 'HTML', 'CSS', 'SQL'],
-        'technologies': ['Codex', 'Omnigent', 'Claude Code', 'Multi-Agent Orchestration', 'AWS', 'Azure', 'GCP', 'Docker', 'Kubernetes']
+        'technologies': ['AI Coding', 'Multi-Agent Workflows', 'AWS', 'Azure', 'GCP', 'Docker', 'Kubernetes']
       }
       mark.interests = {
         'software'     : ['Machine Learning', 'Application Development', 'Automation'],
